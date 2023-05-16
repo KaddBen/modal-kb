@@ -1,13 +1,13 @@
 {
-  "name": "modal-kb",
-  "version": "1.1.0",
-  "description": "A simple modal which contains some basic features as options\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[Cs options",
+  "name": "kb-modal",
+  "version": "1.1.1",
+  "description": "A simple modal which contains some basic features as options",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build-lib": "rollup -c"
   },
-  "author": "kad B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[K",
+  "author": "kad Benk",
   "license": "MIT",
   "devDependencies": {
     "@babel/preset-react": "^7.18.6",
